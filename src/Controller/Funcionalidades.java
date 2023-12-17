@@ -48,10 +48,11 @@ public class Funcionalidades {
         return valorcuota;
     }
 
+    /*
     public static ArrayList<CuotaArriendo> alculaValorCuota(){
-        ArrayList<CuotaArriendo> cuotaArriendoList = new ArrayList<CuotaArriendo>;
+        //ArrayList<CuotaArriendo> cuotaArriendoList = new ArrayList<CuotaArriendo>;
         return cuotaArriendoList;
     }
 
-
+*/
 }
