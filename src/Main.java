@@ -9,20 +9,12 @@ import java.awt.event.ActionListener;
 
 public class Main {
     public static void main(String[] args) {
-
-
         PantallaCliente();
     }
-
-
-
-
-
-
     public static void PantallaCliente (){
         Cliente cliente = new Cliente();
         CrearCliente crearcliente = new CrearCliente();
-        crearcliente.setSize(300,300);
+        crearcliente.setSize(700,600);
         crearcliente.setVisible(true);
 
     }
